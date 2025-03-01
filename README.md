@@ -52,10 +52,17 @@ Creating an agent in osTicket is simple. To create a new agent (employee), open 
 </p>
 <br />
 
+![osTicketlab18](https://github.com/user-attachments/assets/96934bf1-37c2-4c9b-b550-0117dd57eb29)
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Configure SLA"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Navigate from the Admin panel -> Manage -> SLA.
+  Standard SLA is typically: 
+  SEV-A (Grace Period: 1 hour, Schedule: 24/7)
+  SEV-B (Grace Period: 4 hours, Schedule: 24/7)
+  SEV-C (Grace Period: 8 hours, Business Hours)
 </p>
 <br />
